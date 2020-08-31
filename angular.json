@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pagination-angular-h2"
+    }
+  },
+  "defaultProject": "pagination-angular-h2",
+  "cli": {
+    "analytics": false
+  }
 }
